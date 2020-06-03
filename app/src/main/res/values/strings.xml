@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">translate</string>
+    <string name="text">Введите сумму в рублях</string>
+    <string name="button">Перевести</string>
+</resources>
